@@ -4,7 +4,8 @@
         "target": "es5",
         "sourceMap": true,
         "jsx": "react",
-        "outDir": "./dist"
+        "outDir": "./dist",
+        "declaration": true
     },
     "include": ["src/**/*"],
     "exclude": [

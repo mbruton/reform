@@ -1,7 +1,7 @@
 import {ControlProps} from "../Control/types";
 
 export enum SectionLayout {
-    Row,
+    Row = 1,
     TwoColumns,
     ThreeColumns,
     FourColumns,
